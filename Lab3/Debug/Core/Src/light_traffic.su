@@ -1,0 +1,10 @@
+light_traffic.c:12:6:red_green	8	static
+light_traffic.c:21:6:red_yellow	8	static
+light_traffic.c:30:6:green_red	8	static
+light_traffic.c:39:6:yellow_red	8	static
+light_traffic.c:48:6:green_green	8	static
+light_traffic.c:58:6:red_red	8	static
+light_traffic.c:68:6:yellow_yellow	8	static
+light_traffic.c:78:6:update7SEG	8	static
+light_traffic.c:115:6:update7SEG_2	16	static
+light_traffic.c:152:6:display7SEG	16	static
